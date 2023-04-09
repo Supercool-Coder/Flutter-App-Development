@@ -12,8 +12,7 @@ Welcome to the master class of flutter and firebase in which we will create a ch
  
  
 
-
-![App UI](![image](https://user-images.githubusercontent.com/70787564/230792498-33c5d3a7-64ec-44c7-b4f1-97335dabf5fa.png))
+![APP UI](https://user-images.githubusercontent.com/70787564/230792554-f2c85c60-8c82-40ff-9f37-f2e244e925ba.jpeg)
 
 Happy Learning 👍
 
